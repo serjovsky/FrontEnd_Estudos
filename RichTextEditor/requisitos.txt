@@ -1,0 +1,33 @@
+FUNCIONALIDADES:
+    ETAPA 1:
+        FONTES, 
+        TAMANHOS, 
+        NEGRITO, 
+        ITÁLICO, 
+        SUBLINHADO,
+        SUBSCRITO,
+        SOBRESCRITO,
+        TACHADO,
+        ZERAR FORMATAÇÃO,
+        IMERSÃO DESSAS FUNCIONALIDADES,
+
+    ETAPA 2:
+        MARCADORES,
+        NUMERAÇÃO,
+        LISTA DE VÁRIOS NIVEIS,
+        REFAZER,
+        DESFAZER,
+        COR DA FONTE,
+        DESTAQUE,
+        ALINHAMENTO DE PARAGRAFO,
+        RECUO,
+        ESPAÇAMENTO DE LINHA,
+
+PROCESSO:
+
+    1. MOLDE HTML E CSS
+        DESIGN,
+        
+    2. SCRIPT JS
+        ETAPA 1,
+        ETAPA 2,
